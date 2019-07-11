@@ -1,0 +1,12 @@
+{
+  "name": "shopify-update-discounts",
+  "version": "1.0.0",
+  "description": "A script that updates Shopify discounts",
+  "main": "update-discounts.js",
+  "author": "Lukasz Wiktor",
+  "license": "GPLv3",
+  "dependencies": {
+    "lodash": "^4.17.14",
+    "shopify-api-node": "^2.20.1"
+  }
+}
